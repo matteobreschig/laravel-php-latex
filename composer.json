@@ -1,7 +1,13 @@
 {
-    "name": "matteobreschig/laravel-php-latex",
+    "name": "techsemicolon/laravel-php-latex",
     "description": "A latex package for laravel to generate pdfs",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Mihir Bhende",
+            "email": "techsemicolon@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4",
